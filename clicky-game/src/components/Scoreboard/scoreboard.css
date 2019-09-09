@@ -1,0 +1,88 @@
+h1, h2, h3, h4, h5, h6 {
+  font-family: alverata-informal, serif;
+  font-weight: 900;
+  font-style: normal;
+  color: #fff;
+}
+
+h5.navbar-brand {
+  font-size: 2.5em;
+}
+
+li.nav-link {
+  padding-top: 20px;
+  padding-right: 40px;
+}
+
+.navbar{
+    background-color: #000;
+}
+
+.navbar-text {
+    color: #ef9cad !important;
+}
+
+.alert-danger {
+  font-family: alverata-informal, serif;
+  font-weight: 900;
+  font-style: normal;
+  text-transform: uppercase;
+  color: #fff;
+  background-color: red !important;
+  border-radius: 0 !important;
+  border-color: none !important;
+  border: 0 !important;
+  padding: 0 !important;
+  margin: 0 !important;
+  cursor: default;
+  margin: auto;
+}
+
+.alert-danger:hover {
+  color: #fff;
+  background-color: #000 !important;
+}
+
+.alert-success {
+  font-family: alverata-informal, serif;
+  font-weight: 900;
+  font-style: normal;
+  text-transform: uppercase;
+  color: #fff;
+  /* display: inline; */
+  background-color: #2274c6 !important;
+  border-radius: 0 !important;
+  border-color: none !important;
+  border: 0 !important;
+  padding: 0 !important;
+  margin: 0 !important;
+  cursor: default;
+}
+
+.alert-success:hover {
+  color: #fff;
+  background-color: #000 !important;
+}
+
+body {
+  background-color: #000;
+}
+
+.footer {
+  font-family: alverata-informal, serif;
+  font-weight: 900;
+  font-style: normal;
+  background-color: #000;
+  color: #fff;
+  text-align: center;
+  margin: auto 0;
+}
+.footer:hover {
+  color:#2274c6;
+}
+.footer a {
+    color: #ef9cad;
+  }
+  .footer a:hover {
+    color:#2274c6;
+  }

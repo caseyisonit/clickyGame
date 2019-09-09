@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "image": "/assets/images/audience.png",
+    "luminary": "The Audience"
+  },
+  {
+    "id": 2,
+    "image": "/assets/images/changeling.png",
+    "luminary": "The Changeling"
+  },
+  {
+    "id": 3,
+    "image": "/assets/images/children.png",
+    "luminary": "The Children"
+  },
+  {
+    "id": 4,
+    "image": "/assets/images/forestqueen.png",
+    "luminary": "The Forest Queen"
+  },
+  {
+    "id": 5,
+    "image": "/assets/images/maiden.png",
+    "luminary": "The Maiden"
+  },
+  {
+    "id": 6,
+    "image": "/assets/images/newborn.png",
+    "luminary": "The Newborn"
+  },
+  {
+    "id": 7,
+    "image": "/assets/images/rake.png",
+    "luminary": "The Rake"
+  },
+  {
+    "id": 8,
+    "image": "/assets/images/river.png",
+    "luminary": "The River"
+  },
+  {
+    "id": 9,
+    "image": "/assets/images/union.png",
+    "luminary": "The Union"
+  }
+]
